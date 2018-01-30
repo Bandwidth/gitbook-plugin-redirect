@@ -1,4 +1,4 @@
-# gitbook-plugin-redirect
+# gitbook-plugin-delayed-redirect
 
 Preprocess your Markdown files, replacing all instances of
 
@@ -13,7 +13,7 @@ with a redirect to the specified path. The path can be absolute(`/new/path`), or
 Add to your `book.json` plugin list:
 ```
 {
-    "plugins" : [ "redirect" ],
+    "plugins" : [ "delayed-redirect" ],
 }
 ```
 
