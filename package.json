@@ -1,29 +1,32 @@
 {
-    "name": "gitbook-plugin-redirect",
-    "description": "GitBook plugin to setup redirects",
+    "name": "gitbook-plugin-delayed-redirect",
+    "description": "GitBook plugin to setup redirects with a small delay",
     "main": "index.js",
-    "version": "0.0.7",
+    "version": "0.0.1",
     "engines": {
         "gitbook": "*"
     },
     "dependencies": {
         "valid-url": "*"
     },
-    "homepage": "https://github.com/ketan/gitbook-plugin-redirect",
+    "homepage": "https://github.com/dtolb/gitbook-plugin-redirect",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ketan/gitbook-plugin-redirect.git"
+        "url": "https://github.com/dtolb/gitbook-plugin-redirect.git"
     },
     "license": "Apache 2",
     "bugs": {
-        "url": "https://github.com/ketan/gitbook-plugin-redirect/issues"
+        "url": "https://github.com/dtolb/gitbook-plugin-redirect/issues"
     },
     "keywords": [
         "gitbook",
         "plugin"
     ],
-    "author": {
+    "authors": [{
         "name": "Ketan Padegaonkar",
         "email": "ketanpadegaonkar [at] gmail [dot] com"
-    }
+    },{
+        "name": "Dan Tolbert",
+        "email": "hi [at] dtolb [dot] com"
+    }]
 }

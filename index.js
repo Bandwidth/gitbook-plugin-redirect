@@ -11,7 +11,7 @@ module.exports = {
       var redirectPageContent = function(path){
         return '' +
           '<link rel="canonical" href="' +  path + '">\n' +
-          '<meta http-equiv=refresh content="0; url=' + encodeURI(path) + '">\n' +
+          '<meta http-equiv=refresh content="5; url=' + encodeURI(path) + '">\n' +
           '<h1>Redirecting...</h1>\n' +
           '<p>\n' +
           '  This page has moved to \n' +
