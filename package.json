@@ -9,14 +9,14 @@
     "dependencies": {
         "valid-url": "*"
     },
-    "homepage": "https://github.com/dtolb/gitbook-plugin-redirect",
+    "homepage": "https://github.com/Bandwidth/gitbook-plugin-redirect",
     "repository": {
         "type": "git",
-        "url": "https://github.com/dtolb/gitbook-plugin-redirect.git"
+        "url": "https://github.com/Bandwidth/gitbook-plugin-redirect.git"
     },
     "license": "Apache 2",
     "bugs": {
-        "url": "https://github.com/dtolb/gitbook-plugin-redirect/issues"
+        "url": "https://github.com/Bandwidth/gitbook-plugin-redirect/issues"
     },
     "keywords": [
         "gitbook",
